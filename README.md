@@ -1,5 +1,3 @@
-# CampusConnect_Assignment
-Campus Event Management API – Assignment for Webknot Technologies Campus Drive
 # CampusConnect – Event Management API
 
 ## Project Overview
@@ -36,7 +34,7 @@ This is my prototype implementation as part of the Webknot Technologies Campus D
 
 ### 1. Clone the Repository
 ```bash
-git clone <repo-link>
+git clone <your-repo-link>
 cd CampusConnect_Assignment
 ```
 
@@ -87,6 +85,5 @@ I have kept the solution:
 - `reports.sql` → Example queries for reports  
 
 ---
-
 
 
